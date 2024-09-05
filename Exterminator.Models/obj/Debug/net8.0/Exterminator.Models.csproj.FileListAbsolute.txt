@@ -1,0 +1,11 @@
+/home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Models/bin/Debug/net8.0/Exterminator.Models.deps.json
+/home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Models/bin/Debug/net8.0/Exterminator.Models.dll
+/home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Models/bin/Debug/net8.0/Exterminator.Models.pdb
+/home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Models/obj/Debug/net8.0/Exterminator.Models.GeneratedMSBuildEditorConfig.editorconfig
+/home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Models/obj/Debug/net8.0/Exterminator.Models.AssemblyInfoInputs.cache
+/home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Models/obj/Debug/net8.0/Exterminator.Models.AssemblyInfo.cs
+/home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Models/obj/Debug/net8.0/Exterminator.Models.csproj.CoreCompileInputs.cache
+/home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Models/obj/Debug/net8.0/Exterminator.Models.dll
+/home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Models/obj/Debug/net8.0/refint/Exterminator.Models.dll
+/home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Models/obj/Debug/net8.0/Exterminator.Models.pdb
+/home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Models/obj/Debug/net8.0/ref/Exterminator.Models.dll

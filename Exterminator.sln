@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exterminator.Models", "Exterminator.Models\Exterminator.Models.csproj", "{BA03A393-CB69-435F-9668-354DC1979256}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exterminator.Repositories", "Exterminator.Repositories\Exterminator.Repositories.csproj", "{F4363457-FA54-4EBF-956D-0E7BC050973D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exterminator.Services", "Exterminator.Services\Exterminator.Services.csproj", "{6ADD3E23-3384-44E2-ACCE-5AFCC9B19F5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exterminator.WebApi", "Exterminator.WebApi\Exterminator.WebApi.csproj", "{CDE3C819-53A0-41A1-BF00-55B4C8952EB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA03A393-CB69-435F-9668-354DC1979256}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA03A393-CB69-435F-9668-354DC1979256}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA03A393-CB69-435F-9668-354DC1979256}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA03A393-CB69-435F-9668-354DC1979256}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4363457-FA54-4EBF-956D-0E7BC050973D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4363457-FA54-4EBF-956D-0E7BC050973D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4363457-FA54-4EBF-956D-0E7BC050973D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4363457-FA54-4EBF-956D-0E7BC050973D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ADD3E23-3384-44E2-ACCE-5AFCC9B19F5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ADD3E23-3384-44E2-ACCE-5AFCC9B19F5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ADD3E23-3384-44E2-ACCE-5AFCC9B19F5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ADD3E23-3384-44E2-ACCE-5AFCC9B19F5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDE3C819-53A0-41A1-BF00-55B4C8952EB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDE3C819-53A0-41A1-BF00-55B4C8952EB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDE3C819-53A0-41A1-BF00-55B4C8952EB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDE3C819-53A0-41A1-BF00-55B4C8952EB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

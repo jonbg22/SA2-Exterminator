@@ -1,0 +1,17 @@
+/home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Services/bin/Debug/net8.0/Exterminator.Services.deps.json
+/home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Services/bin/Debug/net8.0/Exterminator.Services.dll
+/home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Services/bin/Debug/net8.0/Exterminator.Services.pdb
+/home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Services/bin/Debug/net8.0/Exterminator.Models.dll
+/home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Services/bin/Debug/net8.0/Exterminator.Repositories.dll
+/home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Services/bin/Debug/net8.0/Exterminator.Models.pdb
+/home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Services/bin/Debug/net8.0/Exterminator.Repositories.pdb
+/home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Services/obj/Debug/net8.0/Exterminator.Services.csproj.AssemblyReference.cache
+/home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Services/obj/Debug/net8.0/Exterminator.Services.GeneratedMSBuildEditorConfig.editorconfig
+/home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Services/obj/Debug/net8.0/Exterminator.Services.AssemblyInfoInputs.cache
+/home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Services/obj/Debug/net8.0/Exterminator.Services.AssemblyInfo.cs
+/home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Services/obj/Debug/net8.0/Exterminator.Services.csproj.CoreCompileInputs.cache
+/home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Services/obj/Debug/net8.0/Exterminator.Services.csproj.CopyComplete
+/home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Services/obj/Debug/net8.0/Exterminator.Services.dll
+/home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Services/obj/Debug/net8.0/refint/Exterminator.Services.dll
+/home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Services/obj/Debug/net8.0/Exterminator.Services.pdb
+/home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Services/obj/Debug/net8.0/ref/Exterminator.Services.dll

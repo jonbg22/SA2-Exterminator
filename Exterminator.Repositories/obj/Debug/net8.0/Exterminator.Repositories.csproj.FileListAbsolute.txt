@@ -1,0 +1,17 @@
+/home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Repositories/bin/Debug/net8.0/Exterminator.Repositories.deps.json
+/home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Repositories/bin/Debug/net8.0/Exterminator.Repositories.runtimeconfig.json
+/home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Repositories/bin/Debug/net8.0/Exterminator.Repositories.dll
+/home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Repositories/bin/Debug/net8.0/Exterminator.Repositories.pdb
+/home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Repositories/bin/Debug/net8.0/Exterminator.Models.dll
+/home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Repositories/bin/Debug/net8.0/Exterminator.Models.pdb
+/home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Repositories/obj/Debug/net8.0/Exterminator.Repositories.csproj.AssemblyReference.cache
+/home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Repositories/obj/Debug/net8.0/Exterminator.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+/home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Repositories/obj/Debug/net8.0/Exterminator.Repositories.AssemblyInfoInputs.cache
+/home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Repositories/obj/Debug/net8.0/Exterminator.Repositories.AssemblyInfo.cs
+/home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Repositories/obj/Debug/net8.0/Exterminator.Repositories.csproj.CoreCompileInputs.cache
+/home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Repositories/obj/Debug/net8.0/Exterminator.Repositories.csproj.CopyComplete
+/home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Repositories/obj/Debug/net8.0/Exterminator.Repositories.dll
+/home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Repositories/obj/Debug/net8.0/refint/Exterminator.Repositories.dll
+/home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Repositories/obj/Debug/net8.0/Exterminator.Repositories.pdb
+/home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Repositories/obj/Debug/net8.0/Exterminator.Repositories.genruntimeconfig.cache
+/home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Repositories/obj/Debug/net8.0/ref/Exterminator.Repositories.dll

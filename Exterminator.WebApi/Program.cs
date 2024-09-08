@@ -31,7 +31,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-// Registering custom exception handler here
+// Registering custom exception handler (ExceptionHandlerEXtensions.cs)
 app.UseGlobalExceptionHandler();
 
 app.UseHttpsRedirection();

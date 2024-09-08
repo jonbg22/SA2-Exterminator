@@ -8,4 +8,5 @@ public interface ILogService
 {
     void LogToDatabase(ExceptionModel exception);
     // TODO: Should contain a method which retrieves all logs (LogDto) ordered by timestamp (descending)
+    public IEnumerable<LogDto> GetAllLogs();
 }

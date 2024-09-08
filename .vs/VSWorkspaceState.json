@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Exterminator.Models",
+    "\\Exterminator.Models\\Attributes",
+    "\\Exterminator.Models\\InputModels",
+    "\\Exterminator.Repositories",
+    "\\Exterminator.WebApi",
+    "\\Exterminator.WebApi\\Controllers"
+  ],
+  "SelectedNode": "\\Exterminator.Models\\Attributes\\ExpertizeAttribute.cs",
+  "PreviewInSolutionExplorer": false
+}

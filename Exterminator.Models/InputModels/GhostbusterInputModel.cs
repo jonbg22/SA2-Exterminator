@@ -1,4 +1,5 @@
 using System.ComponentModel.DataAnnotations;
+using Exterminator.Models.Attributes;
 
 namespace Exterminator.Models.InputModels;
 
@@ -9,6 +10,6 @@ public class GhostbusterInputModel
     [MaxLength(50)]
     public string Name { get; set; }
     [Required]
-    // [Expertize]
+    [Expertize]
     public string Expertize { get; set; }
 }

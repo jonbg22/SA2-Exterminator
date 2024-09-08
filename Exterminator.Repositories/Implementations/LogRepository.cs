@@ -25,4 +25,10 @@ public class LogRepository : ILogRepository
     }
 
     // TODO: Should contain a method which retrieves all logs (LogDto) ordered by timestamp (descending)
+    public IEnumerable<LogDto> GetAllLogs() => _dbContext.Logs.Select(l => new LogDto
+    {
+        ExceptionMessage = l.ExceptionMessage,
+        StackTrace = l.StackTrace,
+        Timestamp = l.Timestamp
+    });
 }

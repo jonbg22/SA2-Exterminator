@@ -9,3 +9,15 @@
 /home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Models/obj/Debug/net8.0/refint/Exterminator.Models.dll
 /home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Models/obj/Debug/net8.0/Exterminator.Models.pdb
 /home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Models/obj/Debug/net8.0/ref/Exterminator.Models.dll
+C:\Users\krist\H24\SA2-Exterminator\Exterminator.Models\bin\Debug\net8.0\Exterminator.Models.deps.json
+C:\Users\krist\H24\SA2-Exterminator\Exterminator.Models\bin\Debug\net8.0\Exterminator.Models.dll
+C:\Users\krist\H24\SA2-Exterminator\Exterminator.Models\bin\Debug\net8.0\Exterminator.Models.pdb
+C:\Users\krist\H24\SA2-Exterminator\Exterminator.Models\obj\Debug\net8.0\Exterminator.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krist\H24\SA2-Exterminator\Exterminator.Models\obj\Debug\net8.0\Exterminator.Models.AssemblyInfoInputs.cache
+C:\Users\krist\H24\SA2-Exterminator\Exterminator.Models\obj\Debug\net8.0\Exterminator.Models.AssemblyInfo.cs
+C:\Users\krist\H24\SA2-Exterminator\Exterminator.Models\obj\Debug\net8.0\Exterminator.Models.csproj.CoreCompileInputs.cache
+C:\Users\krist\H24\SA2-Exterminator\Exterminator.Models\obj\Debug\net8.0\Exterminator.Models.sourcelink.json
+C:\Users\krist\H24\SA2-Exterminator\Exterminator.Models\obj\Debug\net8.0\Exterminator.Models.dll
+C:\Users\krist\H24\SA2-Exterminator\Exterminator.Models\obj\Debug\net8.0\refint\Exterminator.Models.dll
+C:\Users\krist\H24\SA2-Exterminator\Exterminator.Models\obj\Debug\net8.0\Exterminator.Models.pdb
+C:\Users\krist\H24\SA2-Exterminator\Exterminator.Models\obj\Debug\net8.0\ref\Exterminator.Models.dll

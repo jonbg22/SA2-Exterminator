@@ -1,4 +1,5 @@
-﻿using Exterminator.Models.InputModels;
+﻿using Exterminator.Models.Exceptions;
+using Exterminator.Models.InputModels;
 using Exterminator.Services.Interfaces;
 using Exterminator.WebApi.Extensions;
 using Microsoft.AspNetCore.Mvc;
@@ -23,7 +24,7 @@ public class GhostbusterController(IGhostbusterService ghostbusterService) : Con
         if (!ModelState.IsValid)
         {
             // TODO: Implement and uncomment
-            // throw new ModelFormatException(ModelState.RetrieveErrorString());
+            throw new ModelFormatException(ModelState.RetrieveErrorString());
         }
         var newId = ghostbusterService.CreateGhostbuster(ghostbuster);
         return CreatedAtRoute("GetGhostbusterById", new { id = newId }, null);

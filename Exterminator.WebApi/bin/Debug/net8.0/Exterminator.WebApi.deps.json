@@ -680,7 +680,10 @@
       "System.Threading.Channels/6.0.0": {},
       "Exterminator.Models/1.0.0": {
         "runtime": {
-          "Exterminator.Models.dll": {}
+          "Exterminator.Models.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Exterminator.Repositories/1.0.0": {
@@ -690,7 +693,10 @@
           "Microsoft.EntityFrameworkCore.Sqlite": "8.0.8"
         },
         "runtime": {
-          "Exterminator.Repositories.dll": {}
+          "Exterminator.Repositories.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Exterminator.Services/1.0.0": {
@@ -699,7 +705,10 @@
           "Exterminator.Repositories": "1.0.0"
         },
         "runtime": {
-          "Exterminator.Services.dll": {}
+          "Exterminator.Services.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

@@ -1,25 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "/home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Services/Exterminator.Services.csproj": {}
+    "C:\\Users\\krist\\H24\\SA2-Exterminator\\Exterminator.Services\\Exterminator.Services.csproj": {}
   },
   "projects": {
-    "/home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Models/Exterminator.Models.csproj": {
+    "C:\\Users\\krist\\H24\\SA2-Exterminator\\Exterminator.Models\\Exterminator.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Models/Exterminator.Models.csproj",
+        "projectUniqueName": "C:\\Users\\krist\\H24\\SA2-Exterminator\\Exterminator.Models\\Exterminator.Models.csproj",
         "projectName": "Exterminator.Models",
-        "projectPath": "/home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Models/Exterminator.Models.csproj",
-        "packagesPath": "/home/nonni/.nuget/packages/",
-        "outputPath": "/home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Models/obj/",
+        "projectPath": "C:\\Users\\krist\\H24\\SA2-Exterminator\\Exterminator.Models\\Exterminator.Models.csproj",
+        "packagesPath": "C:\\Users\\krist\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\krist\\H24\\SA2-Exterminator\\Exterminator.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/nonni/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\krist\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -32,6 +35,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -53,34 +61,37 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.108/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Repositories/Exterminator.Repositories.csproj": {
+    "C:\\Users\\krist\\H24\\SA2-Exterminator\\Exterminator.Repositories\\Exterminator.Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Repositories/Exterminator.Repositories.csproj",
+        "projectUniqueName": "C:\\Users\\krist\\H24\\SA2-Exterminator\\Exterminator.Repositories\\Exterminator.Repositories.csproj",
         "projectName": "Exterminator.Repositories",
-        "projectPath": "/home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Repositories/Exterminator.Repositories.csproj",
-        "packagesPath": "/home/nonni/.nuget/packages/",
-        "outputPath": "/home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Repositories/obj/",
+        "projectPath": "C:\\Users\\krist\\H24\\SA2-Exterminator\\Exterminator.Repositories\\Exterminator.Repositories.csproj",
+        "packagesPath": "C:\\Users\\krist\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\krist\\H24\\SA2-Exterminator\\Exterminator.Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/nonni/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\krist\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Models/Exterminator.Models.csproj": {
-                "projectPath": "/home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Models/Exterminator.Models.csproj"
+              "C:\\Users\\krist\\H24\\SA2-Exterminator\\Exterminator.Models\\Exterminator.Models.csproj": {
+                "projectPath": "C:\\Users\\krist\\H24\\SA2-Exterminator\\Exterminator.Models\\Exterminator.Models.csproj"
               }
             }
           }
@@ -89,6 +100,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -120,37 +136,40 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.108/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Services/Exterminator.Services.csproj": {
+    "C:\\Users\\krist\\H24\\SA2-Exterminator\\Exterminator.Services\\Exterminator.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Services/Exterminator.Services.csproj",
+        "projectUniqueName": "C:\\Users\\krist\\H24\\SA2-Exterminator\\Exterminator.Services\\Exterminator.Services.csproj",
         "projectName": "Exterminator.Services",
-        "projectPath": "/home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Services/Exterminator.Services.csproj",
-        "packagesPath": "/home/nonni/.nuget/packages/",
-        "outputPath": "/home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Services/obj/",
+        "projectPath": "C:\\Users\\krist\\H24\\SA2-Exterminator\\Exterminator.Services\\Exterminator.Services.csproj",
+        "packagesPath": "C:\\Users\\krist\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\krist\\H24\\SA2-Exterminator\\Exterminator.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/nonni/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\krist\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Models/Exterminator.Models.csproj": {
-                "projectPath": "/home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Models/Exterminator.Models.csproj"
+              "C:\\Users\\krist\\H24\\SA2-Exterminator\\Exterminator.Models\\Exterminator.Models.csproj": {
+                "projectPath": "C:\\Users\\krist\\H24\\SA2-Exterminator\\Exterminator.Models\\Exterminator.Models.csproj"
               },
-              "/home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Repositories/Exterminator.Repositories.csproj": {
-                "projectPath": "/home/nonni/Documents/HR/haust2024/VEFT/HW2/Exterminator.Repositories/Exterminator.Repositories.csproj"
+              "C:\\Users\\krist\\H24\\SA2-Exterminator\\Exterminator.Repositories\\Exterminator.Repositories.csproj": {
+                "projectPath": "C:\\Users\\krist\\H24\\SA2-Exterminator\\Exterminator.Repositories\\Exterminator.Repositories.csproj"
               }
             }
           }
@@ -159,6 +178,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -180,7 +204,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.108/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

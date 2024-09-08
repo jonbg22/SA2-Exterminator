@@ -51,14 +51,12 @@ public static class ExceptionHandlerExtensions
                     };
 
                     logService.LogToDatabase(logException);
-                    
-                    await context.Response.WriteAsync(new ExceptionModel 
-                    {
-                    StatusCode = statusCode,
-                    ExceptionMessage = exception.Message
-                    }.ToString());
+
+                    context.Response.StatusCode = statusCode;
+
+                    await context.Response.WriteAsync(logException.ToString());
                 }
-                
+
             });
         });
     }

@@ -696,7 +696,10 @@
       "System.Threading.Channels/6.0.0": {},
       "Exterminator.Models/1.0.0": {
         "runtime": {
-          "Exterminator.Models.dll": {}
+          "Exterminator.Models.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

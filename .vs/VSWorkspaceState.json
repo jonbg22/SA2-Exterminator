@@ -3,11 +3,12 @@
     "",
     "\\Exterminator.Models",
     "\\Exterminator.Models\\Attributes",
+    "\\Exterminator.Models\\Exceptions",
     "\\Exterminator.Models\\InputModels",
     "\\Exterminator.Repositories",
     "\\Exterminator.WebApi",
     "\\Exterminator.WebApi\\Controllers"
   ],
-  "SelectedNode": "\\Exterminator.Models\\Attributes\\ExpertizeAttribute.cs",
+  "SelectedNode": "\\Exterminator.Models\\Exceptions\\ModelFormatException.cs",
   "PreviewInSolutionExplorer": false
 }

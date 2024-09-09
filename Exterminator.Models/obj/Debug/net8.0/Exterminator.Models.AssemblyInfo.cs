@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Exterminator.Models")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2abf17e4ac92dda81e16778fa0728b9656830e1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f88b705a5e492178a9897206c9a1f502b40fd9eb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Exterminator.Models")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Exterminator.Models")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

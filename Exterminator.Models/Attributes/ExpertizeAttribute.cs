@@ -5,7 +5,7 @@ using System.ComponentModel.DataAnnotations;
 namespace Exterminator.Models.Attributes
 {
     // Custom validation attribute for the GhostbusterInputModel
-    public class ExpertizeAttribute : ValidationAttribute
+    public class Expertize : ValidationAttribute
     {
         private string[] _allowedExpertize = ["Ghost catcher", "Ghoul strangler", "Monster encager", "Zombie exploder"];
 
@@ -20,7 +20,7 @@ namespace Exterminator.Models.Attributes
 
             if (!Array.Exists(_allowedExpertize, e => e.Equals(expertize, StringComparison.OrdinalIgnoreCase)))
             {
-                return new ValidationResult("Value must be one of the following: “Ghost catcher”, “Ghoul strangler”, “Monster encager” or “Zombie exploder”");
+                return new ValidationResult("Value 'expertize' must be one of the following: “Ghost catcher”, “Ghoul strangler”, “Monster encager” or “Zombie exploder”");
             }
 
             return ValidationResult.Success;

@@ -20,7 +20,7 @@ namespace Exterminator.Models.Attributes
 
             if (!Array.Exists(_allowedExpertize, e => e.Equals(expertize, StringComparison.OrdinalIgnoreCase)))
             {
-                return new ValidationResult("Value 'expertize' must be one of the following: “Ghost catcher”, “Ghoul strangler”, “Monster encager” or “Zombie exploder”");
+                return new ValidationResult("Invalid value for 'expertize'. Must be one of the following: “Ghost catcher”, “Ghoul strangler”, “Monster encager” or “Zombie exploder”");
             }
 
             return ValidationResult.Success;
